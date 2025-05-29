@@ -63,3 +63,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
+
+site:
+  # set when your site is served for GitHub pages without custom domain:
+  root-path: /gdv2blog
