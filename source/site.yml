@@ -1,7 +1,7 @@
 site:
   # set the domain with schema but without trailing slash:
   domain: 'https://gitsite.org'
-  title: GitSite
+  title: GDBlog
   description: GitSite is a static web site generator for Git.
   keywords: gitsite, git, static web site, html
   theme: default
